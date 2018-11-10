@@ -1,5 +1,10 @@
 # GitPractice
 A repo to practice the various Git functionalities and commands
 
-#Contributors
+
+# Purpose
+To prepare for the Github coding challenge
+
+
+# Contributors
 - Mahir Jhaveri
